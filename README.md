@@ -1,2 +1,2 @@
 # Web3_tutorial
-这个repo用于存储我在Web3学习中的一些代码
+This is a test repostitory for xiangqingzhu's learning of github.
